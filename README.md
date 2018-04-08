@@ -1,4 +1,4 @@
-# Issue tracking system (backend)
+# Simple issue tracking system 1.0 (backend)
 
 One Paragraph of project description goes here
 
