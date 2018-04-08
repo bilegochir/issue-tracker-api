@@ -1,4 +1,4 @@
-# issue-tracker-api
+# Issue tracking system (backend)
 
 ## Introduction
 
