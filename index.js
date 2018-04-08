@@ -25,5 +25,9 @@ routers(app)
 // routes for authentication
 authRouters(app)
 
+app.get('/', (req, res) => 
+    res.send(`Server is running on ${PORT}`)
+)
+
 app.listen(PORT, () => 
     console.log(`Example app listening on port ${PORT}`))
